@@ -1,5 +1,5 @@
-Flask==0.10.1
+Flask==0.12.3
 twilio==3.6.15
 
 # the following requirement is for deploying to Heroku
-gunicorn==19.1.1
+gunicorn==19.10.0
